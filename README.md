@@ -5,7 +5,10 @@ Landing page moderna, responsiva e focada em conversão, desenvolvida para profi
 🔗 Projeto online:
 https://deividlt051.github.io/LANDING-PAGE-PROFISSIONAL-/
 
-📸 Preview do Projeto
+## 📸 Preview do Projeto
+
+![Landing Page - Mobile](screenshots/home
+
 
 📁 screenshots/
 ├── home-desktop.png

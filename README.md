@@ -7,7 +7,7 @@ https://deividlt051.github.io/LANDING-PAGE-PROFISSIONAL-/
 
 ## 📸 Preview do Projeto
 
-![Landing Page - Mobile](screenshots/home
+![Landing Page - Mobile](screenshots/home)
 
 
 📁 screenshots/

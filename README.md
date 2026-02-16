@@ -3,7 +3,7 @@
 Landing page moderna, responsiva e focada em conversão, desenvolvida para profissionais, freelancers e empresas que desejam captar clientes de forma direta e eficiente.
 
 🔗 Projeto online:
-https://landingpage-profissional.netlify.app/
+https://deividlt051.github.io/LANDING-PAGE-PROFISSIONAL-/
 
 📸 Preview do Projeto
 
